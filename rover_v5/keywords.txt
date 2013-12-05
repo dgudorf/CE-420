@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For RoverCamera
+#######################################
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+getBlockCount KEYWORD2
+getImageSize KEYWORD2
+resetCamera KEYWORD2
+takePicture	KEYWORD2
+stopCapture	KEYWORD2
+readBlock KEYWORD2
+sendCommand	KEYWORD2
+setLeft KEYWORD2
+setRight KEYWORD2
+fullStop KEYWORD2
+getCoordinates KEYWORD2
+getScaledCoordinates KEYWORD2
+getField KEYWORD2
+setRange KEYWORD2
+setPosition	KEYWORD2
+getPosition	KEYWORD2
+mapPosition	KEYWORD2
+getVoltage KEYWORD2
+getScaledVoltage KEYWORD2
+getDistance KEYWORD2
+getScaledDistance KEYWORD2
+#######################################
+# Classes (KEYWORD3)
+#######################################
+RoverServo KEYWORD3
+RoverDrive KEYWORD3
+RoverGps KEYWORD3
+RoverCamera KEYWORD3
+RoverIR KEYWORD3
